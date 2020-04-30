@@ -91,3 +91,49 @@ input[type=submit],button[type=submit]{
     text-decoration: underline; 
 
   } 
+.section-padding {
+    padding: 120px 0;
+}
+.section-title{
+  margin-bottom: 90px;
+}
+.single-services-box {
+  border: 1px solid #fafafa;
+  padding: 25px;
+  font-weight: 300;
+  line-height: 1.6;
+  margin-bottom: 50px;
+}
+.service-icon {
+  font-size: 30px;
+  color: #353132;
+}
+.single-services-box h3{
+  font-size: 20px;
+  margin: 15px 0;
+}
+.service-redmore-btn {
+  color: #373737;
+  font-weight: 400;
+  display: inline-block;
+  margin-top: 10px;
+}
+.service-redmore-btn i.zmdi{
+  padding-left: 5px;
+}
+.single-services-box:hover{
+  border-color: #ef476f;
+}
+.single-services-box:hover a.service-redmore-btn,.single-services-box:hover h3,.single-services-box:hover .service-icon{
+color: #ec4a71;
+} 
+.pdt-50{
+  padding-top: 50px;
+}
+h2{
+  font-size: 28px;
+  line-height: 35px;
+}
+.pdt-50 .boxed-btn{
+padding-top: 15px;
+}
