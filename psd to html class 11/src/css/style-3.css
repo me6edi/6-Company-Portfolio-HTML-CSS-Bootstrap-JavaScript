@@ -46,3 +46,50 @@ z-index: 1;
     padding-left: 4px;
     margin-top: 15px;
 }
+.blog-thumb-wrapper{
+    background-image: url(../img/blog-1.jpg);
+}
+.cta-area.theme-3 {background-image: url(../img/bg-2.jpg);}
+.boxed-btn, input[type="submit"], button[type="submit"]{
+    background-color: #24d5a1;
+}
+
+
+.website-check-from input [type="submit"]{
+    margin-right: 0;
+    width: 15%;
+}
+.website-check-from input{
+    width: 24%;
+}
+.website-check-from {
+    margin-top: -30px;
+}
+.section-padding.padding-top-0 {
+    padding-top: 0;
+}
+.pd-50 {
+	margin-left: 100px;
+	padding-top: 60px;
+}
+.pd-50 .boxed-btn {
+    margin-top: 20px;
+    border-radius: 0;
+}
+.single-services-box:hover {
+    border-color: #24d5a1;
+}
+.single-services-box:hover a.service-redmore-btn, .single-services-box:hover h3, .single-services-box:hover .service-icon .service-number {
+    color: #24d5a1;
+}
+.service-number {
+	color: #dcdcdc;
+	font-size: 70px;
+    font-weight: 400;
+    line-height: 70px;
+    display: inline-block;
+    padding-top: 16px;
+}
+.single-services-box {
+	margin-bottom: 0;
+}
