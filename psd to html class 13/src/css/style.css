@@ -261,6 +261,7 @@ margin-top: 10px;
   width: 30%;
   padding: 11px;
   border-radius: 0;
+  height: 48px;
 }
 .email-subcribe-form input[type="email"] {
   width: 67%;

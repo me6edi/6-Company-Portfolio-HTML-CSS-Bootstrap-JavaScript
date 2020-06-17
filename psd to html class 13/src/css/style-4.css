@@ -165,9 +165,8 @@ h1,h2,h3,h4,h5,h6 {
 	font-weight: 600;
 	margin-left: 3px;
 }
-a:hover {
-	text-decoration: none;
-	color: #24d5a1;;
+a:hover{
+    color: #24d5a1;
 }
 .section-icon {
 	color: #24d5a1;
@@ -253,4 +252,114 @@ a:hover {
 }
 .padding-30 h3 {
 	font-size: 26px;
+}
+.video-play-btn {
+	background: #06d6a0;
+	height: 60px;
+	width: 60px;
+	display: inline-block;
+	text-align: center;
+	line-height: 62px;
+	color: #fff;
+	border-radius: 50%;
+	margin-bottom: 40px;
+}
+.testimonial-contect {
+	padding: 30px;
+	position: relative;
+	z-index: 1;
+}
+.testimonial-contect p:last-child{
+    margin-bottom: 0;
+}
+.quote-icon {
+	margin-bottom: 20px;
+	font-size: 120%;
+}
+.testimonial-contect::after {
+	position: absolute;
+	left: 30px;
+	bottom: -15px;
+	width: 30px;
+	height: 30px;
+	background: #06d6a0;
+	content: '';
+    transform: rotate(45deg);
+    display: none;
+}
+.testimonial-bottom {
+	margin-top: 80px;
+	margin-left: 20px;
+	opacity: 0;
+	visibility: hidden;
+}
+.testimonial-bottom p {
+    display: inline-block;
+    color: #999;
+    font-weight: 500;
+    margin-right: 10px;
+}
+.testimonial-bottom p strong {
+	color: #333;
+}
+.testimonial-bottom img {
+    border-radius: 35%;
+    margin-top: -24px;
+    margin-right: 20px;
+    width: 50px;
+}
+.btn h2 {
+	font-size: 36px;
+	font-weight: 700;
+    color: #fff;
+}
+.theme-5 p {
+	color: #fff;
+	font-size: 16px;
+	margin-top: 25px;
+}
+.boxed-btn{
+    margin-top: 10px;
+    background-color: #06d6a0;
+    color: #fff;
+    border-radius: 5px;
+}
+.footer-are.theme-4 {
+	background-color: #073b4c;
+	padding: 130px 0px;
+}
+.footer-are.theme-4 h4 {
+	color: #fff;
+    font-size: 20px;
+    font-weight: normal;
+}
+.footer-are ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	line-height: 2;
+}
+.social-icon i {
+	margin-right: 10px;
+}
+.copyright-area-2 {
+	background-color: #0f2e38;
+}
+.copyright-area-2 {
+	border-top: none;
+}
+.active.testimonial-contect {
+	background-color: #06d6a0;
+}
+.active.testimonial-contect {
+	background-color: #06d6a0;
+	color: #fff;
+}
+.active.testimonial-contect::after {
+	display: block;
+}
+.active.testimonial-contect:hover {
+    background-color: #06d6a0;
+	color: #fff;
+	
 }
