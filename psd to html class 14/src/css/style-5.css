@@ -1,0 +1,60 @@
+.text-top h2 {
+	font-size: 36px;
+    font-weight: 600;
+    color: #fff;
+    margin-top: 285px;
+}
+.breadcroumb-area.breadcrumb-bg-1{
+    background-image: url(../img/pad-5/bg-1.jpg);
+    height: 600px;
+    background-size: cover;
+}
+.text-top p {
+    font-size: 27px;
+    color: #fff;
+}
+.breadcroumb-area.breadcrumb-bg-1 {
+	margin-bottom: 100px;
+}
+.cta-area.theme-2 {
+    margin-top: 50px;
+}
+.cta-area.theme-6{
+    background-image: url(../img/pad-5/bg-2-cta.jpg);
+    background-size: cover;
+    height: 350px;
+}
+.btn h2 {
+	color: #fff;
+	font-size: 36px;
+	font-weight: 600;
+	margin-top: 25px;
+}
+.col-md-12.btn a {
+    background-color: #06d6a0;
+    color: #fff;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.btn p{
+    color: #fff;
+}
+.service-icon {
+    color: #000;
+}
+.footer-are a:hover {
+    color: #24d5a1;
+}
+.single-services-box:hover a.service-redmore-btn, .single-services-box:hover h3, .single-services-box:hover .service-icon {
+	color: #24d5a1;
+}
+
+.single-services-box:hover {
+	border-color: #24d5a1;
+}
+.social-links i {
+	margin-right: 12px;
+}
+.mainmenu a:hover{
+    color: #24d5a1;
+}
