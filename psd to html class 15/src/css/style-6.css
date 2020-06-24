@@ -1,0 +1,69 @@
+.absolute-gellary-img-1 {
+	position: absolute;
+	left: 0;
+	top: 80px;
+}
+.tile-gellary img {
+    box-shadow: 0 5px 5px #d1d1d1;
+    border-radius: 5px;
+}
+.padding-top-50 {
+	padding-top: 70px;
+}
+.padding-top-50 h3 {
+	font-size: 26px;
+	font-weight: 700;
+	margin-bottom: 30px;
+}
+.padding-top-50 {
+	margin-left: 40px;
+}
+.section-padding {
+	padding: 120px 0;
+	overflow: hidden;
+	margin-bottom: 100px;
+}
+.pdt-50 h4 {
+	color: #000;
+	font-size: 25px;
+	font-weight: 600;
+	padding-top: 20px;
+}
+.pricing-count {
+	color: #06d6a0;
+	font-size: 50px;
+	font-weight: 400;
+	line-height: 60px;
+	margin: 0px;
+}
+.single-pricing-box:hover {
+	border-color: #06d6a0;
+}
+.single-pricing-box:hover .pricing-heading {
+	border-color: #06d6a0;
+}
+.section-padding {
+    overflow: hidden;
+    padding-top: 0px;
+    margin-bottom: 0px;
+}
+.single-pricing-box{
+    cursor: pointer;
+}
+.section-padding{
+    padding: 0px;
+}
+.section-padding.padding-top-0 {
+	padding-top: 100px;
+}
+.section-padding.pd-top {
+	padding-top: 80px;
+}
+.single-case-study.theme-2 {
+    background-image: url(../img/produck1.jpg);
+    background-size: cover;
+}
+.section-title h2 {
+	font-size: 36px;
+	font-weight: 600;
+}
